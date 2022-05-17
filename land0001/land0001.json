@@ -4,9 +4,9 @@
   "external_url": "https://lands.town",
   "attributes": [
     { "trait_type": "District", "value": "One" },
-    { "trait_type": "Location", "value": "[[01,01],[01,01]" },
+    { "trait_type": "Location", "value": "[[01,01],[01,01]]" },
     { "trait_type": "Size", "value": "01x01" }
   ],
-  "image": "https://ipfs.io/ipfs/QmVEiZMEWwXGLLt4AZsNtw9hbPnoZqFRH8b17ioFH8w6bX",
-  "image_url": "https://ipfs.io/ipfs/QmVEiZMEWwXGLLt4AZsNtw9hbPnoZqFRH8b17ioFH8w6bX"
+  "image": "https://ipfs.io/ipfs/QmUFds8hEH9Ps29t5GGeSF5o339g6BwvkJBPXc11eTaEdb",
+  "image_url": "https://ipfs.io/ipfs/QmUFds8hEH9Ps29t5GGeSF5o339g6BwvkJBPXc11eTaEdb"
 }
