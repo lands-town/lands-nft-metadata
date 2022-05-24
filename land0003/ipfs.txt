@@ -1,2 +1,0 @@
-image = https://ipfs.io/ipfs/QmUpTbtabGJVXiDcbGWyNbRSjWtMbNCxu3u5cjsaiSQxpF
-ipfs = https://ipfs.io/ipfs/QmSVG5D6qXLdF5HAWicrJGX6PPDFAYeBcH8umcmiAemCDT
