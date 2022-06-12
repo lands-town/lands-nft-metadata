@@ -1,0 +1,2 @@
+image = https://ipfs.io/ipfs/Qmcuodnkfj37N2m1D6qEjKGVH8W2iVnAUtrNg4oUGhK6yS
+json = https://ipfs.io/ipfs/QmQUde2eTfYD3prLLyGTmGTneMmYXVEc1z3CePpywZjVzJ
