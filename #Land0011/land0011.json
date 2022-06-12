@@ -1,0 +1,13 @@
+{
+    "name": "#Land0011",
+    "created_by": "The Landscape",
+    "external_url": "https://lands.town",
+    "attributes": [
+      { "trait_type": "District", "value": "One" },
+      { "trait_type": "Location", "value": "[[04,04],[02,02]]" },
+      { "trait_type": "Size", "value": "01x01" }
+    ],
+    "image": "https://ipfs.io/ipfs/QmVbF1E4bdZbcp4hC3nVMDHD2JnUmVag3MwJ6jwiSyJJ3w",
+    "image_url": "https://ipfs.io/ipfs/QmVbF1E4bdZbcp4hC3nVMDHD2JnUmVag3MwJ6jwiSyJJ3w"
+  }
+    
